@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>????????????????</title>
+    <style>
+        @font-face {
+            font-family: 'Acumin Pro';
+            src: url('path/to/AcuminPro-Regular.woff2') format('woff2'), 
+                 url('path/to/AcuminPro-Regular.woff') format('woff'); 
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        body {
+            background-color: black; 
+            color: white; 
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            height: 100vh; 
+            margin: 0; 
+            font-size: 100px; 
+            text-align: center; 
+            font-family: 'Acumin Pro', sans-serif; 
+        }
+    </style>
+</head>
+<body>
+    <div>
+        WHY AM I STILL ALIVE??
+    </div>
+</body>
+</html>
